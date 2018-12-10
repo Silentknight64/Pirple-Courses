@@ -3,7 +3,7 @@ Homework #1 Variables
 """
 
 # The song name
-SongName = "Eye of The Tiger"
+SongName 	= "Eye of The Tiger"
 # The artist of the song
 Artist 		= "Frankie Sullivan and Jim Peterik"
 # Genre of the song
